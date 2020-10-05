@@ -1,0 +1,22 @@
+{
+    "name": "Untitled",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Neopixels": "github:magnus-charles/neopixels#master",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
